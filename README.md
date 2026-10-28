@@ -1,4 +1,4 @@
-....# ☁️ CloudStore | Modern Storage Interface
+# ☁️ CloudStore | Modern Storage Interface
 
 A premium, clean, and highly sophisticated UI for cloud-based file management systems.
 
